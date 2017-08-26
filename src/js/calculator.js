@@ -6,3 +6,5 @@ var calculator = {
         return a - b;
     }
 };
+
+export default calculator;
